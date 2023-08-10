@@ -33,7 +33,7 @@ namespace KnowledgeCheck1_Calculator
                         Console.WriteLine("One or more of the numbers is not an int");
                     }
                     break;
-
+                    git remote rename origin upstream
                 case "2":
                     Console.WriteLine("Enter 2 integers to subtract");
                     var subtractNumber1 = Console.ReadLine();
